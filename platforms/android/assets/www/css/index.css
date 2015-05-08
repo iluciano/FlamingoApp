@@ -94,3 +94,10 @@ form{
 .form-input-btn:hover {
   background: #27ae60;
 }
+.div-rodape{
+    margin: 0 auto;
+}
+.div-rodape img{
+  width: 100%;
+  margin-top: 20px;
+}
